@@ -2,7 +2,6 @@ import 'dart:developer';
 
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:path/path.dart';
 import 'package:todo_bloc/domain/entity/entity.dart';
 import 'package:todo_bloc/domain/usecase/usecase.dart';
 part 'create_edit_todo/create_edit_todo_bloc.dart';
